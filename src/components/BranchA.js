@@ -5,6 +5,7 @@ export default class BranchA extends Component {
         return (
             <div>
                 <h1> Branch A </h1>
+                <p> This is a new change from kennys branch</p>
             </div>
         )
     }
