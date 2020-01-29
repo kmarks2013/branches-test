@@ -8,6 +8,7 @@ export default class MainContainer extends Component {
             <div>
                 <BranchA />
                 <BranchB />
+                jkwelhEGafjsd
             </div>
         )
     }
