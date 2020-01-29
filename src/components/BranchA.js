@@ -4,7 +4,7 @@ export default class BranchA extends Component {
     render() {
         return (
             <div>
-                <p> Branch A </p>
+                <h1> Branch A </h1>
             </div>
         )
     }
